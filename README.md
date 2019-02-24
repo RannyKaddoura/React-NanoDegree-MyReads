@@ -38,4 +38,4 @@ Copyright (c) 2019 Ranny Kaddoura
  
 # License
 
-  [![GitHub license](https://img.shields.io/badge/Copyright-Starticket.AG-green.svg?longCache=true&style=for-the-badge)](Ranny.Kaddoura) 
+  [![GitHub license](https://img.shields.io/badge/Copyright-Ranny.Kaddoura-green.svg?longCache=true&style=for-the-badge)](Ranny.Kaddoura) 
